@@ -26,7 +26,7 @@ This general structure was used to implement a `Codable`-compatible
 For more information about the design and implementation
 of custom encoder and decoder types,
 see Chapter 7 of
-[Flight School Guide to Swift Codable](https://gumroad.com/l/codable).
+[Flight School Guide to Swift Codable](https://flight.school/books/codable).
 
 ## Usage
 
